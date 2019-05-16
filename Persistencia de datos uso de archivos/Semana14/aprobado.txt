@@ -1,0 +1,5 @@
+Aprobados
+nombre			nota
+Juan			3.0
+Luisa			3.67
+Cristian			3.75

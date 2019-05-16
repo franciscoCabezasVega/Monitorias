@@ -1,0 +1,4 @@
+Reprobados
+nombre			nota
+Esteban			1.67
+Carlos			2.42
